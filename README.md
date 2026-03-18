@@ -1,13 +1,10 @@
 # Hi, I'm Abdullah Hameed 👋
 
-Frontend Developer & Shopify Specialist based in Rawalpindi, Pakistan.
-I build responsive websites and custom Shopify storefronts — from 
+Shopify & Frontend Developer based in in Rawalpindi, Pakistan.
+I build responsive websites and custom Shopify storefronts from
 Figma designs to fully functional themes and sections.
 
-Currently working at **Uptek**, building custom sections for 
-**ThemePack**, an internal Shopify app used by real stores.
-
----
+Lets Make your Idea Come to Life!
 
 ## 🛠️ Tech Stack
 
