@@ -4,7 +4,7 @@ Shopify & Frontend Developer based in in Rawalpindi, Pakistan.
 I build responsive websites and custom Shopify storefronts from
 Figma designs to fully functional themes and sections.
 
-Lets Make your Idea Come to Life!
+Lets Make your Idea Come to Life through code!
 
 ## 🛠️ Tech Stack
 
@@ -18,14 +18,6 @@ Lets Make your Idea Come to Life!
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-## 🔭 Currently Working On
-
-- Deepening JavaScript knowledge through a structured JS course
-- Taking on freelance projects and building client websites
-- Migrating a Ecommerce Website to Shopify
 
 ---
 
