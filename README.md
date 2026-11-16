@@ -1,26 +1,11 @@
-# Hi, I'm Abdullah Hameed 👋
+# Hi, I'm [Abdullah Hameed](https://abdullahdevvv.netlify.app/) 👋
 
-Shopify & Frontend Developer based in in Rawalpindi, Pakistan.
-I build responsive websites and custom Shopify storefronts from
-Figma designs to fully functional themes and sections.
+I'm a Shopify front-end web developer with 3 years of experience. I've built multiple Shopify stores and websites from Figma designs, with a focus on clean, maintainable code and best practices.
 
-Lets Make your Idea Come to Life through code!
+I've contributed to major websites such as **NCA** and **Sick Science**.
 
-## 🛠️ Tech Stack
+Currently, I'm sharpening my JavaScript skills by building projects like a todo app and a Pomodoro timer.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-96BF48?style=flat&logo=shopify&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+Outside of work, I like keeping up with new developments in tech, I love history, and I play video games.
 
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-hameed-771271284)
+Let's connect! [Portfolio](https://abdullahdevvv.netlify.app/)
